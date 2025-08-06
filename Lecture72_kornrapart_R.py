@@ -1,4 +1,4 @@
-menuList = []
+menuList = ['ข้าวมันไก่':'40',]
 
 def showBill():
     print("---- My Food----")
